@@ -1,2 +1,2 @@
 # alextech
-Repository for code from alextech18.blogspot.com
+Repository for code from https://alextech18.blogspot.com
